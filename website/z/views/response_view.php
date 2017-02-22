@@ -1,0 +1,5 @@
+data<?php
+
+echo $data;
+
+?>

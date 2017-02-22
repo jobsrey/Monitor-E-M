@@ -1,0 +1,9 @@
+INSERT INTO `terminal_checking` (
+				`ID`, `terminal_ip`, `terminal_id`, 
+				`status_ping`, `status_printer`, `status_ba`, `status_cd1`, `status_cd2`, `status_cd3`, `status_cd4`, 
+				`check_datetime`, `status_id`
+				) VALUES (
+				'', '25.100.127.173', '210-00-000-0-111', 
+				'FF', 'XX', 'XX', 'XX', 'NA', 'NA', 'NA', 
+				'2015-10-29 14:59:10', '1' 
+				)

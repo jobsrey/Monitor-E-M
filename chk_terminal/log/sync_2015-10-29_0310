@@ -1,0 +1,40 @@
+. 2015-10-29 15:10:08.107 --------------------------------------------------------------------------
+. 2015-10-29 15:10:08.123 WinSCP Version 5.5.3 (Build 4214) (OS 6.0.6002 Service Pack 2 - Windows Server (R) 2008 Standard)
+. 2015-10-29 15:10:08.123 Configuration: HKEY_CURRENT_USER\Software\Martin Prikryl\WinSCP 2\
+. 2015-10-29 15:10:08.123 Local account: WIN-YUFSB5LYCMN\Administrator
+. 2015-10-29 15:10:08.123 Working directory: C:\Program Files\WinSCP
+. 2015-10-29 15:10:08.123 Process ID: 5332
+. 2015-10-29 15:10:08.123 Command-line: "C:\Program Files\WinSCP\WinSCP.exe" /console=553 /consoleinstance=_5192_190 "/script=C:\xampp\htdocs\lunari\chk_terminal\lun_sync.txt" "/log=C:\xampp\htdocs\lunari\chk_terminal\log\sync_2015-10-29_0310" "PM.txt" 
+. 2015-10-29 15:10:08.123 Time zone: Current: GMT+7 (SE Asia Standard Time), No DST
+. 2015-10-29 15:10:08.123 Login time: Thursday, October 29, 2015 3:10:08 PM
+. 2015-10-29 15:10:08.123 --------------------------------------------------------------------------
+. 2015-10-29 15:10:08.123 Script: Retrospectively logging previous script records:
+< 2015-10-29 15:10:08.123 Script: Opening session using command-line parameter in scripting is deprecated. Use 'open' command instead.
+. 2015-10-29 15:10:08.123 --------------------------------------------------------------------------
+. 2015-10-29 15:10:08.123 Session name: PM.txt (Ad-Hoc site)
+. 2015-10-29 15:10:08.123 Host name: PM.txt (Port: 22)
+. 2015-10-29 15:10:08.123 User name:  (Password: No, Key file: No)
+. 2015-10-29 15:10:08.123 Tunnel: No
+. 2015-10-29 15:10:08.123 Transfer Protocol: SFTP (SCP)
+. 2015-10-29 15:10:08.123 Ping type: -, Ping interval: 30 sec; Timeout: 15 sec
+. 2015-10-29 15:10:08.123 Proxy: none
+. 2015-10-29 15:10:08.123 Send buffer: 262144
+. 2015-10-29 15:10:08.123 SSH protocol version: 2; Compression: No
+. 2015-10-29 15:10:08.123 Bypass authentication: No
+. 2015-10-29 15:10:08.123 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: No
+. 2015-10-29 15:10:08.123 Ciphers: aes,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2015-10-29 15:10:08.123 SSH Bugs: A,A,A,A,A,A,A,A,A,A
+. 2015-10-29 15:10:08.123 Simple channel: Yes
+. 2015-10-29 15:10:08.123 Return code variable: Autodetect; Lookup user groups: A
+. 2015-10-29 15:10:08.123 Shell: default
+. 2015-10-29 15:10:08.123 EOL: 0, UTF: 2
+. 2015-10-29 15:10:08.123 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes
+. 2015-10-29 15:10:08.123 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2015-10-29 15:10:08.123 SFTP Bugs: A,A
+. 2015-10-29 15:10:08.123 SFTP Server: default
+. 2015-10-29 15:10:08.123 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2015-10-29 15:10:08.123 Cache directory changes: Yes, Permanent: Yes
+. 2015-10-29 15:10:08.123 DST mode: 1; Timezone offset: 0h 0m
+. 2015-10-29 15:10:08.123 --------------------------------------------------------------------------
+. 2015-10-29 15:10:08.123 Looking up host "PM.txt"
+. 2015-10-29 15:10:08.748 Connecting to 198.105.254.11 port 22

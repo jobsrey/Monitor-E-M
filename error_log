@@ -1,0 +1,3 @@
+[30-Oct-2015 22:57:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '',tm) as date from `'' (T_CONSTANT_ENCAPSED_STRING) in /home/lunariki/public_html/website/models/allmodel.php on line 435
+[30-Oct-2015 23:06:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Allmodel::selectLog() in /home/lunariki/public_html/website/models/allmodel.php on line 423
+[30-Oct-2015 23:07:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '',tm) as date from `'' (T_CONSTANT_ENCAPSED_STRING) in /home/lunariki/public_html/website/models/allmodel.php on line 434

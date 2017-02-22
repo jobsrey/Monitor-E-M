@@ -1,0 +1,173 @@
+. 2015-10-29 16:18:04.413 --------------------------------------------------------------------------
+. 2015-10-29 16:18:04.413 WinSCP Version 5.5.3 (Build 4214) (OS 6.0.6002 Service Pack 2 - Windows Server (R) 2008 Standard)
+. 2015-10-29 16:18:04.413 Configuration: HKEY_CURRENT_USER\Software\Martin Prikryl\WinSCP 2\
+. 2015-10-29 16:18:04.413 Local account: WIN-YUFSB5LYCMN\Administrator
+. 2015-10-29 16:18:04.413 Working directory: C:\Program Files\WinSCP
+. 2015-10-29 16:18:04.413 Process ID: 4328
+. 2015-10-29 16:18:04.413 Command-line: "C:\Program Files\WinSCP\WinSCP.exe" /console=553 /consoleinstance=_5472_721 "/script=C:\xampp\htdocs\lunari\chk_terminal\lun_sync.txt" "/log=C:\xampp\htdocs\lunari\chk_terminal\log\sync_2015-10-29_0418" "PM.txt" 
+. 2015-10-29 16:18:04.413 Time zone: Current: GMT+7 (SE Asia Standard Time), No DST
+. 2015-10-29 16:18:04.413 Login time: Thursday, October 29, 2015 4:18:04 PM
+. 2015-10-29 16:18:04.413 --------------------------------------------------------------------------
+. 2015-10-29 16:18:04.413 Script: Retrospectively logging previous script records:
+< 2015-10-29 16:18:04.413 Script: Opening session using command-line parameter in scripting is deprecated. Use 'open' command instead.
+. 2015-10-29 16:18:04.413 --------------------------------------------------------------------------
+. 2015-10-29 16:18:04.413 Session name: PM.txt (Ad-Hoc site)
+. 2015-10-29 16:18:04.413 Host name: PM.txt (Port: 22)
+. 2015-10-29 16:18:04.413 User name:  (Password: No, Key file: No)
+. 2015-10-29 16:18:04.413 Tunnel: No
+. 2015-10-29 16:18:04.413 Transfer Protocol: SFTP (SCP)
+. 2015-10-29 16:18:04.413 Ping type: -, Ping interval: 30 sec; Timeout: 15 sec
+. 2015-10-29 16:18:04.413 Proxy: none
+. 2015-10-29 16:18:04.413 Send buffer: 262144
+. 2015-10-29 16:18:04.413 SSH protocol version: 2; Compression: No
+. 2015-10-29 16:18:04.413 Bypass authentication: No
+. 2015-10-29 16:18:04.413 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: No
+. 2015-10-29 16:18:04.413 Ciphers: aes,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2015-10-29 16:18:04.413 SSH Bugs: A,A,A,A,A,A,A,A,A,A
+. 2015-10-29 16:18:04.413 Simple channel: Yes
+. 2015-10-29 16:18:04.413 Return code variable: Autodetect; Lookup user groups: A
+. 2015-10-29 16:18:04.413 Shell: default
+. 2015-10-29 16:18:04.413 EOL: 0, UTF: 2
+. 2015-10-29 16:18:04.413 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes
+. 2015-10-29 16:18:04.413 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2015-10-29 16:18:04.413 SFTP Bugs: A,A
+. 2015-10-29 16:18:04.413 SFTP Server: default
+. 2015-10-29 16:18:04.413 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2015-10-29 16:18:04.413 Cache directory changes: Yes, Permanent: Yes
+. 2015-10-29 16:18:04.413 DST mode: 1; Timezone offset: 0h 0m
+. 2015-10-29 16:18:04.413 --------------------------------------------------------------------------
+. 2015-10-29 16:18:04.428 Looking up host "PM.txt"
+. 2015-10-29 16:18:04.757 Connecting to 198.105.254.11 port 22
+. 2015-10-29 16:18:25.759 Failed to connect to 198.105.254.11: Network error: Connection timed out
+. 2015-10-29 16:18:25.759 Connecting to 198.105.254.11 port 22
+. 2015-10-29 16:18:46.787 Failed to connect to 198.105.254.11: Network error: Connection timed out
+. 2015-10-29 16:18:46.787 Knocking FTP port.
+. 2015-10-29 16:18:46.787 FTP port did not open.
+. 2015-10-29 16:18:46.802 --------------------------------------------------------------------------
+. 2015-10-29 16:18:46.802 WinSCP Version 5.5.3 (Build 4214) (OS 6.0.6002 Service Pack 2 - Windows Server (R) 2008 Standard)
+. 2015-10-29 16:18:46.802 Configuration: HKEY_CURRENT_USER\Software\Martin Prikryl\WinSCP 2\
+. 2015-10-29 16:18:46.802 Local account: WIN-YUFSB5LYCMN\Administrator
+. 2015-10-29 16:18:46.802 Working directory: C:\Program Files\WinSCP
+. 2015-10-29 16:18:46.802 Process ID: 4328
+. 2015-10-29 16:18:46.802 Command-line: "C:\Program Files\WinSCP\WinSCP.exe" /console=553 /consoleinstance=_5472_721 "/script=C:\xampp\htdocs\lunari\chk_terminal\lun_sync.txt" "/log=C:\xampp\htdocs\lunari\chk_terminal\log\sync_2015-10-29_0418" "PM.txt" 
+. 2015-10-29 16:18:46.802 Time zone: Current: GMT+7 (SE Asia Standard Time), No DST
+. 2015-10-29 16:18:46.802 Login time: Thursday, October 29, 2015 4:18:46 PM
+. 2015-10-29 16:18:46.802 --------------------------------------------------------------------------
+. 2015-10-29 16:18:46.802 Script: Retrospectively logging previous script records:
+< 2015-10-29 16:18:46.802 Script: Searching for host...
+< 2015-10-29 16:18:46.802 Script: Network error: Connection to "PM.txt" timed out.
+. 2015-10-29 16:18:46.802 Script: Failed
+> 2015-10-29 16:18:46.802 Script: option batch abort
+< 2015-10-29 16:18:46.802 Script: batch           abort     
+> 2015-10-29 16:18:46.802 Script: option confirm off
+< 2015-10-29 16:18:46.802 Script: confirm         off       
+> 2015-10-29 16:18:46.802 Script: open ftp://lunariki:***@lunarikiosk.com/
+. 2015-10-29 16:18:46.802 --------------------------------------------------------------------------
+. 2015-10-29 16:18:46.802 Session name: lunariki@lunarikiosk.com (Ad-Hoc site)
+. 2015-10-29 16:18:46.802 Host name: lunarikiosk.com (Port: 21)
+. 2015-10-29 16:18:46.802 User name: lunariki (Password: Yes, Key file: No)
+. 2015-10-29 16:18:46.802 Tunnel: No
+. 2015-10-29 16:18:46.802 Transfer Protocol: FTP
+. 2015-10-29 16:18:46.802 Ping type: C, Ping interval: 30 sec; Timeout: 15 sec
+. 2015-10-29 16:18:46.802 Proxy: none
+. 2015-10-29 16:18:46.802 Send buffer: 262144
+. 2015-10-29 16:18:46.802 FTP: FTPS: None; Passive: Yes [Force IP: A]; MLSD: A [List all: A]
+. 2015-10-29 16:18:46.802 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2015-10-29 16:18:46.802 Cache directory changes: Yes, Permanent: Yes
+. 2015-10-29 16:18:46.802 DST mode: 1; Timezone offset: 0h 0m
+. 2015-10-29 16:18:46.802 --------------------------------------------------------------------------
+. 2015-10-29 16:18:46.849 Connecting to lunarikiosk.com ...
+. 2015-10-29 16:18:46.849 Connected with lunarikiosk.com. Waiting for welcome message...
+< 2015-10-29 16:18:46.959 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+< 2015-10-29 16:18:46.959 220-You are user number 5 of 50 allowed.
+< 2015-10-29 16:18:46.959 220-Local time is now 16:18. Server port: 21.
+< 2015-10-29 16:18:46.959 220-This is a private system - No anonymous login
+< 2015-10-29 16:18:46.959 220-IPv6 connections are also welcome on this server.
+< 2015-10-29 16:18:46.959 220 You will be disconnected after 15 minutes of inactivity.
+> 2015-10-29 16:18:46.959 USER lunariki
+< 2015-10-29 16:18:47.006 331 User lunariki OK. Password required
+> 2015-10-29 16:18:47.006 PASS **********
+< 2015-10-29 16:18:47.287 230 OK. Current restricted directory is /
+> 2015-10-29 16:18:47.287 SYST
+< 2015-10-29 16:18:47.334 215 UNIX Type: L8
+> 2015-10-29 16:18:47.334 FEAT
+< 2015-10-29 16:18:47.537 211-Extensions supported:
+< 2015-10-29 16:18:47.537  EPRT
+< 2015-10-29 16:18:47.537  IDLE
+< 2015-10-29 16:18:47.537  MDTM
+< 2015-10-29 16:18:47.537  SIZE
+< 2015-10-29 16:18:47.537  MFMT
+< 2015-10-29 16:18:47.537  REST STREAM
+< 2015-10-29 16:18:47.537  MLST type*;size*;sizd*;modify*;UNIX.mode*;UNIX.uid*;UNIX.gid*;unique*;
+< 2015-10-29 16:18:47.537  MLSD
+< 2015-10-29 16:18:47.537  AUTH TLS
+< 2015-10-29 16:18:47.537  PBSZ
+< 2015-10-29 16:18:47.537  PROT
+< 2015-10-29 16:18:47.537  UTF8
+< 2015-10-29 16:18:47.537  TVFS
+< 2015-10-29 16:18:47.537  ESTA
+< 2015-10-29 16:18:47.537  PASV
+< 2015-10-29 16:18:47.537  EPSV
+< 2015-10-29 16:18:47.537  SPSV
+< 2015-10-29 16:18:47.537  ESTP
+< 2015-10-29 16:18:47.537 211 End.
+> 2015-10-29 16:18:47.537 OPTS UTF8 ON
+< 2015-10-29 16:18:47.568 200 OK, UTF-8 enabled
+. 2015-10-29 16:18:47.568 Connected
+. 2015-10-29 16:18:47.568 --------------------------------------------------------------------------
+. 2015-10-29 16:18:47.568 Using FTP protocol.
+. 2015-10-29 16:18:47.568 Doing startup conversation with host.
+> 2015-10-29 16:18:47.584 PWD
+< 2015-10-29 16:18:47.677 257 "/" is your current location
+. 2015-10-29 16:18:47.677 Getting current directory name.
+. 2015-10-29 16:18:47.677 Startup conversation with host finished.
+< 2015-10-29 16:18:47.677 Script: Active session: [1] lunariki@lunarikiosk.com
+> 2015-10-29 16:18:47.677 Script: option transfer binary
+< 2015-10-29 16:18:47.677 Script: transfer        binary    
+> 2015-10-29 16:18:47.693 Script: put -nopreservetime -nopermissions C:\xampp\htdocs\lunari\chk_terminal\ct*.txt /public_html/upload/chk_terminal/
+. 2015-10-29 16:18:47.693 Copying 2 files/directories to remote directory "/public_html/upload/chk_terminal/"
+. 2015-10-29 16:18:47.693   PrTime: No; PrRO: No; Rght: rw-r--r--; PrR: No (No); FnCs: N; RIC: 0100; Resume: S (102400); CalcS: No; Mask: 
+. 2015-10-29 16:18:47.693   TM: B; ClAr: No; RemEOF: No; RemBOM: No; CPS: 0; NewerOnly: No; InclM: 
+. 2015-10-29 16:18:47.693   AscM: *.*html; *.htm; *.txt; *.php; *.php3; *.cgi; *.c; *.cpp; *.h; *.pas; *.bas; *.tex; *.pl; *.js; .htaccess; *.xtml; *.css; *.cfg; *.ini; *.sh; *.xml
+. 2015-10-29 16:18:47.693 File: 'C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161708_210-00-000-0-111.txt' [2015-10-29T09:17:08.356Z] [370]
+. 2015-10-29 16:18:47.693 Copying "C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161708_210-00-000-0-111.txt" to remote directory started.
+. 2015-10-29 16:18:47.693 Binary transfer mode selected.
+. 2015-10-29 16:18:47.693 Starting upload of C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161708_210-00-000-0-111.txt
+> 2015-10-29 16:18:47.693 CWD /public_html/upload/chk_terminal/
+< 2015-10-29 16:18:47.927 250 OK. Current directory is /public_html/upload/chk_terminal
+> 2015-10-29 16:18:47.927 PWD
+< 2015-10-29 16:18:48.037 257 "/public_html/upload/chk_terminal" is your current location
+> 2015-10-29 16:18:48.037 TYPE A
+< 2015-10-29 16:18:48.162 200 TYPE is now ASCII
+> 2015-10-29 16:18:48.162 PASV
+< 2015-10-29 16:18:48.318 227 Entering Passive Mode (222,165,255,246,87,59)
+> 2015-10-29 16:18:48.318 MLSD
+< 2015-10-29 16:18:48.412 150 Accepted data connection
+< 2015-10-29 16:18:48.631 226-Options: -a -l 
+< 2015-10-29 16:18:48.631 226 2 matches total
+. 2015-10-29 16:18:48.834 type=cdir;sizd=4096;modify=20151029081629;UNIX.mode=0755;UNIX.uid=873;UNIX.gid=873;unique=ca00g88d733; .
+. 2015-10-29 16:18:48.834 type=pdir;sizd=4096;modify=20151028112221;UNIX.mode=0755;UNIX.uid=873;UNIX.gid=873;unique=ca00g866c37; ..
+> 2015-10-29 16:18:48.834 TYPE I
+< 2015-10-29 16:18:49.006 200 TYPE is now 8-bit binary
+> 2015-10-29 16:18:49.006 PASV
+< 2015-10-29 16:18:49.084 227 Entering Passive Mode (222,165,255,246,96,71)
+> 2015-10-29 16:18:49.084 STOR ct_20151029-161708_210-00-000-0-111.txt
+< 2015-10-29 16:18:49.193 150 Accepted data connection
+< 2015-10-29 16:18:49.396 226-File successfully transferred
+< 2015-10-29 16:18:49.412 226 0.228 seconds (measured here), 1.58 Kbytes per second
+. 2015-10-29 16:18:49.412 Upload successful
+. 2015-10-29 16:18:49.412 File: 'C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161715_210-00-000-0-DEV.txt' [2015-10-29T09:17:15.919Z] [368]
+. 2015-10-29 16:18:49.412 Copying "C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161715_210-00-000-0-DEV.txt" to remote directory started.
+. 2015-10-29 16:18:49.412 Binary transfer mode selected.
+. 2015-10-29 16:18:49.412 Starting upload of C:\xampp\htdocs\lunari\chk_terminal\ct_20151029-161715_210-00-000-0-DEV.txt
+> 2015-10-29 16:18:49.412 TYPE I
+< 2015-10-29 16:18:49.584 200 TYPE is now 8-bit binary
+> 2015-10-29 16:18:49.584 PASV
+< 2015-10-29 16:18:49.646 227 Entering Passive Mode (222,165,255,246,70,2)
+> 2015-10-29 16:18:49.646 STOR ct_20151029-161715_210-00-000-0-DEV.txt
+< 2015-10-29 16:18:49.756 150 Accepted data connection
+< 2015-10-29 16:18:49.927 226-File successfully transferred
+< 2015-10-29 16:18:49.927 226 0.092 seconds (measured here), 3.90 Kbytes per second
+. 2015-10-29 16:18:49.927 Upload successful
+> 2015-10-29 16:18:49.943 Script: close
+. 2015-10-29 16:18:49.943 Disconnected from server

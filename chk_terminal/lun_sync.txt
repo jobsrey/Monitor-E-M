@@ -1,0 +1,26 @@
+# Automatically abort script on errors
+option batch abort
+# Disable overwrite confirmations that conflict with the previous
+option confirm off
+# Connect
+# open sftp://G4t0T:25#!C0kro4m1n0+o?@wartakota.tribunnews.com:9869/   
+open ftp://lunariki:R407bhU5rf@lunarikiosk.com/
+# Force binary mode transfer
+option transfer binary
+
+# Upload the file to current working directory
+put -nopreservetime -nopermissions %var%\ct*.txt /public_html/upload/chk_terminal/
+
+# Disconnect
+close
+# Exit WinSCP
+exit 
+
+#delete remote files
+#get -delete /storage/sites/wartakota/web/epaper/paper2/14WK22*.jpg
+
+
+ 
+
+
+
